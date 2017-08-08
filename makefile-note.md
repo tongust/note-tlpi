@@ -42,5 +42,5 @@ void fqq() {
 }
 ```
 The gcc cmd should be
-> **gcc -o main -I../include/ ../src/foo.c ./main.c **
+> gcc -o main -I../include/ ../src/foo.c ./main.c 
 
