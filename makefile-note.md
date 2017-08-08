@@ -6,7 +6,6 @@ It consists of two important components:
 - The .c file:
 	- It actually defines the function and the varibles. 
 
-## Main code
 *./main.c*
 _____
 ```cpp
