@@ -7,7 +7,7 @@ It consists of two important components:
 	- It actually defines the function and the varibles. 
 
 ## Main code
-*./*
+*./main.c*
 _____
 ```cpp
 #include "foo.h"
