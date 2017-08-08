@@ -61,4 +61,8 @@ $(OBJS) : $(SRC)
 # firstly execute: gcc -c ../src/csapp.c ../netp/echo.c select.c -I../include/  -pthread
 clean :
 	rm -rf *.o
+
+# $@ left of :, 
+# $^ right of :
 ```
+
